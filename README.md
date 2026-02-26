@@ -4,27 +4,38 @@ Welcome to my Machine Learning journey repository! This project serves as a comp
 
 ## Current Status
 
-At present, the repository focuses on **Regression** algorithms. I have implemented various regression models to understand their underlying mechanics and applications.
+At present, the repository features several personal projects and implementations of Machine Learning algorithms across different domains, from Regression to SVM.
 
 ### Implemented Algorithms:
-*   **Simple Linear Regression**: The foundation of predictive modeling.
-*   **Linear Regression**: Multi-variable relationships and optimizations.
-*   **Polynomial Regression**: Handling non-linear data patterns.
-*   **Regularization Techniques**:
-    *   Lasso Regression (L1)
-    *   Ridge Regression (L2)
-    *   Elastic Net
+
+#### 📈 Regression
+
+- **Simple Linear Regression**: The foundation of predictive modeling.
+- **Linear Regression**: Multi-variable relationships and optimizations.
+- **Polynomial Regression**: Handling non-linear data patterns.
+- **Regularization Techniques**: Lasso, Ridge, and Elastic Net.
+
+#### 🎯 Classification
+
+- **Logistic Regression**: Binary and multi-class classification.
+- **K-Nearest Neighbors (KNN)**: Instance-based learning.
+- **Support Vector Machines (SVM)**: Margin-based classification and regression.
+
+#### 🛠️ Preprocessing & Validation
+
+- **Feature Engineering**: Handling outliers, missing data, and categorical encoding.
+- **Cross Validation**: Robust model evaluation and K-Fold strategies.
+- **Grid Search**: Hyperparameter tuning and optimization.
 
 ## Future Roadmap
 
-This is just the beginning. I plan to expand this repository with a wide range of other Machine Learning algorithms and models, including but not limited to:
+This journey continues! Upcoming focus areas include:
 
-- [ ] **Classification Models**: Logistic Regression, K-Nearest Neighbors, SVM.
-- [ ] **Tree-based Models**: Decision Trees, Random Forests, Boosted Trees (XGBoost, AdaBoost).
-- [ ] **Unsupervised Learning**: K-Means Clustering, Hierarchical Clustering, DBSCAN, PCA.
-- [ ] **Natural Language Processing (NLP)**: Naive Bayes, Text Vectorization.
+- [ ] **Tree-based Models**: Decision Trees, Random Forests, and Boosting.
+- [ ] **Unsupervised Learning**: K-Means, Hierarchical Clustering, DBSCAN, and PCA.
+- [ ] **Natural Language Processing (NLP)**: Text Vectorization and Naive Bayes.
 - [ ] **Neural Networks & Deep Learning**: Building and training complex models.
 
 ---
 
-*This repository is a work in progress and will be updated regularly as I learn and implement new concepts.*
+_This repository is a work in progress and will be updated regularly as I learn and implement new concepts._
